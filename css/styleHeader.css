@@ -13,11 +13,15 @@ header {
     margin: 0 auto;
     height: 800px;
     background: lightcyan;
+    background: url(../img/fondoHeader.jpg) fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #cabecera {
     width: 100%;
     height: 50px;
-    background: cyan;
+    background: white;
+    border-bottom: 1px solid #ebebeb;
 }
 #contentRedes {
     height: 30%;
@@ -43,4 +47,12 @@ header {
 }
 .btnHeader {
     padding: 10px;
+}
+h1.titPag {
+    color: white;
+    font-size: 5em;
+}
+h4.subTitPag {
+    color: whitesmoke;
+    font-size: 1.5em;
 }

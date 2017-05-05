@@ -13,8 +13,8 @@
         <img class="imgRedes" src="img/redes/linkedin.png" alt="linkedin" />
     </div>
     <div id="contentTitPag">
-        <h1>Titulo de la Pagina</h1>
-        <h4>Subtitulo de prueba</h4>
+        <h1 class="titPag">Titulo de la Pagina</h1>
+        <h4 class="subTitPag">Subtitulo de prueba</h4>
     </div>
     <div id="contentBotones">
         <button class="btnHeader">Boton1</button>

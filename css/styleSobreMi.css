@@ -12,7 +12,7 @@ and open the template in the editor.
     max-width: 1920px;
     margin: 0 auto;
     height: 500px;
-    background: cyan;
+    background: white;
 }
 
 #contentImgSobreMi {
@@ -33,6 +33,6 @@ and open the template in the editor.
 /*CLASES*/
 .imgMiFoto {
     /*width: 80%;*/
-    height: 450px;
+    height: 430px;
 }
 

@@ -1,0 +1,31 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-may-2017, 11:34:07
+    Author     : mikel
+*/
+
+footer {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    clear: both;
+    position: relative;
+    z-index: 10;
+    height: 50px;
+    background: #fafafa;
+    color: black;
+    border-top: 1px solid #ebebeb;
+}
+#contentTextoFooter {
+    width: 100%;
+    float: left;
+}
+/* CLASES */
+p.textoFooter {
+    margin-top: 15px;
+    margin-left: 15px;
+}
