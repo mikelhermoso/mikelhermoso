@@ -5,6 +5,7 @@
         <link REL=StyleSheet HREF="css/styleHeader.css">
         <link REL=StyleSheet HREF="css/styleNav.css">
         <link REL=StyleSheet HREF="css/styleSobreMi.css">
+        <link REL=StyleSheet HREF="css/styleContacto.css">
         <link REL=StyleSheet HREF="css/styleFooter.css">
         <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"> 
     </head>

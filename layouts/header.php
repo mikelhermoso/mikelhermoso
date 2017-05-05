@@ -2,8 +2,8 @@
     <nav>
         <ul>
             <li>Inicio</li>
+            <a href="#sobremi"><li>Sobre mi</li></a>
             <li>Blog</li>
-            <li>Sobre mi</li>
             <li>Contacto</li>
         </ul>
     </nav>
@@ -17,7 +17,7 @@
         <h4 class="subTitPag">Subtitulo de prueba</h4>
     </div>
     <div id="contentBotones">
-        <button class="btnHeader">Boton1</button>
-        <button class="btnHeader">Boton2</button>
+        <a href="#" class="btnHeader">Botón 1</a>
+        <a href="#" class="btnHeader">Botón 2</a>
     </div>
 </div>

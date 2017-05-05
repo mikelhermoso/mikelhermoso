@@ -20,7 +20,7 @@ header {
 #cabecera {
     width: 100%;
     height: 50px;
-    background: white;
+/*    background: white;*/
     border-bottom: 1px solid #ebebeb;
 }
 #contentRedes {
@@ -46,7 +46,24 @@ header {
     margin-top: 8px;
 }
 .btnHeader {
-    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px 30px;
+    white-space: nowrap;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #93cdff;
+    margin: 10px 5px;
+    color: #FFF;
+    -webkit-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.btnHeader:hover {
+    background: #C4E4FF;
 }
 h1.titPag {
     color: white;

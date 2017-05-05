@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-may-2017, 13:44:15
+    Author     : mikel
+*/
+#contentContacto {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0px auto;
+    height: 700px;
+    /*background: url(../img/fondoContacto.jpg) fixed; #589389 color photoshop*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#containerContacto {
+  padding-top: 50px;  
+}
+#contentForm {
+    width: 400px;
+    margin: 0 auto;
+    background: url(../img/fondoContacto.jpg) fixed;
+     background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white; /*#919897*/
+    box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
+    border-radius: 4px;
+    padding: 10px;
+}
+h3.titContacto {
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+form {
+ width: 300px;
+ margin: 0 auto;
+}
+input {
+    width: 300px;
+    height: 40px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+textarea {
+    width: 300px;
+    height: 100px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+p.textoContacto {
+    /*color: red;*/
+    margin-bottom: 1px;
+    text-align: left;
+}
+input.btnSubmit {
+    width: 150px; 
+    margin-top: 20px; 
+    margin-bottom: 20px;
+}
