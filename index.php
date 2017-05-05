@@ -1,7 +1,10 @@
 <html>
     <head>
         <title>Mikel Hermoso</title>
-        <LINK REL=StyleSheet HREF="css/style.css">
+        <link REL=StyleSheet HREF="css/style.css">
+        <link REL=StyleSheet HREF="css/styleHeader.css">
+        <link REL=StyleSheet HREF="css/styleNav.css">
+        <link REL=StyleSheet HREF="css/styleSobreMi.css">
         <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet"> 
     </head>
     
@@ -10,7 +13,11 @@
     </header>
     
     <body>
-        <h1>Mikel Hermoso</h1>
+        
+        <?php include 'layouts/sobremi.php';?>
+        
+        <?php include 'layouts/contacto.php';?>
+        
     </body>
     
     <footer>

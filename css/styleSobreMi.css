@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-may-2017, 10:56:42
+    Author     : mikel
+*/
+#contentSobreMi {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    height: 500px;
+    background: cyan;
+}
+
+#contentImgSobreMi {
+    width: 50%;
+    float: left;
+}
+#containerImgSobreMi {
+    width: 50%;
+    margin: 30px auto;
+}
+
+#contentTextoSobreMi {
+    width: 50%;
+    float: right;
+    /*padding: 10px;*/
+}
+
+/*CLASES*/
+.imgMiFoto {
+    /*width: 80%;*/
+    height: 450px;
+}
+
