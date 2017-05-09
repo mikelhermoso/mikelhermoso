@@ -8,6 +8,7 @@ and open the template in the editor.
     Author     : mikel
 */
 #contentContacto {
+    clear: both;
     width: 100%;
     max-width: 1920px;
     margin: 0px auto;
@@ -23,17 +24,15 @@ and open the template in the editor.
 #contentForm {
     width: 400px;
     margin: 0 auto;
-    background: url(../img/fondoContacto.jpg) fixed;
-     background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
+    /*background: url(../img/fondoContacto.jpg) fixed;*/
+    background: #242424;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
     color: white; /*#919897*/
     box-shadow: 0 4px 10px 4px rgba(19, 35, 47, 0.3);
     border-radius: 4px;
-    padding: 10px;
+    padding: 3px;
 }
 h3.titContacto {
     margin-bottom: 20px;

@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 09-may-2017, 9:03:58
+    Author     : mikel
+*/
+#contentHabilidades {
+    clear: both;
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+    height: 500px;
+    background: url(../img/fondoSkills.jpg) fixed;
+    /*background: #242424;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#containerHabilidades1, #containerHabilidades2, #containerHabilidades3, #containerHabilidades4  {
+    width: 50%;
+    height: 250px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+#containerHabilidades1 {
+    /*background: #242424;*/
+    background: url(../img/sistema.jpg) fixed;
+}
+#containerHabilidades2 {
+/*    background: #D46A6A;*/
+    background: url(../img/apps.png) fixed;
+}
+#containerHabilidades3 {
+    /*background: #D46A6A;*/
+    background: url(../img/desarrollo.png) fixed;
+}
+#containerHabilidades4 {
+    /*background: #242424;*/
+    background: url(../img/design.png) fixed;
+}
+#containerHabilidades1:hover {
+    background: url(../img/sistemaColor.jpg) fixed;
+}
+#contentHab {
+    width: 250px;
+    float: left;
+}
+#containerHab {
+    width: 90%;
+    margin: 15px auto;
+    background: #D46A6A;
+    /*border: solid 1px;*/
+    border-radius: 20px;
+    padding: 5px;
+    text-align: center;
+}
+/*CLASES*/
+h1.titHab {
+    margin-top: 90px;
+    margin-bottom: 0px;
+    color: white;
+}
+p.TextHab {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: white;
+}

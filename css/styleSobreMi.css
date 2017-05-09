@@ -11,14 +11,18 @@ and open the template in the editor.
     width: 100%;
     max-width: 1200px;
     margin: 30px auto;
-    height: 500px;
+    /*height: 500px;*/
     background: white;
 }
-
+#contentImgContacto {
+    width: 35%;
+    float: left;
+}
 #contentTextoSobreMi {
-    width: 100%;
+    width: 65%;
     float: right;
     /*padding: 10px;*/
+    margin-bottom: 50px;
 }
 
 /*CLASES*/
@@ -28,9 +32,15 @@ and open the template in the editor.
     float: left;
     padding: 15px 50px;
 }
-p.textoSobreMi {
+p.textoSobreMi, li.liSobreMi {
     color: black;
     letter-spacing: 0.8px;
     line-height: 30px;
 }
-
+h2.subTitSobreMi {
+    color: #D46A6A;
+    margin-top: 25px;
+}
+li.liSobreMi {
+    list-style: none;
+}

@@ -12,7 +12,6 @@ nav {
     height: 50px;
     margin-top: 0px;
     float: left;
-    /*background: #BCBBBB;*/
 }
 nav ul {
     list-style:none;
@@ -33,7 +32,7 @@ nav ul li {
     -o-transition: all 500ms ease-in-out;*/
 }
 nav ul li:hover {
-    color: black;
+    color: #D46A6A;
 /*    transform:scale(1.2);
     -ms-transform:scale(1.2); 
     -moz-transform:scale(1.2);
