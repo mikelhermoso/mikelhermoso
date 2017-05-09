@@ -3,6 +3,8 @@
         <h1 class="titRedes">Sígueme!</h1>
         <div id="contentRedesIn">
             <h3 class="titRedesIn">LINKEDIN</h3>
+            <script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/mikelhermoso" data-format="inline" data-related="false"></script>
         </div>
         <div id="contentRedesIn">
             <h3 class="titRedesIn">YOUTUBE</h3>
