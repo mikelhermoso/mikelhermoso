@@ -12,7 +12,6 @@ header {
     max-width: 1920px;
     margin: 0 auto;
     height: 800px;
-    background: lightcyan;
     background: url(../img/fondoHeader.jpg) fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -20,8 +19,8 @@ header {
 #cabecera {
     width: 100%;
     height: 50px;
-    background: #242424;
-    border-bottom: 1px solid #ebebeb;
+    /*background: #242424;*/
+    /*border-bottom: 1px solid #ebebeb;*/
 }
 #cabeceraFix {
     display: none;

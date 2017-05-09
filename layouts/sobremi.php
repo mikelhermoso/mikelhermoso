@@ -13,12 +13,14 @@
             <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
             <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
         </ul>
+        <hr>
         <h2 class="subTitSobreMi">ESTUDIOS</h2>
         <ul>
             <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
             <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
             <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
         </ul>
+        <hr>
         <h2 class="subTitSobreMi">IDIOMAS</h2>
         <ul>
             <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>

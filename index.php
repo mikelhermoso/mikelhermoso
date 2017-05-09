@@ -1,9 +1,4 @@
-<?php require('strings/strings_es.php');
-    $lang = null;
-    if ( isset($_GET['lang']) ){
-    $lang = $_GET['lang'];
-    }
-?>
+<?php require('strings/strings_es.php'); ?>
 <html>
     <head>
         <title>Mikel Hermoso</title>
@@ -12,6 +7,7 @@
         <link REL=StyleSheet HREF="css/styleNav.css">
         <link REL=StyleSheet HREF="css/styleSobreMi.css">
         <link REL=StyleSheet HREF="css/styleHabilidades.css">
+        <link REL=StyleSheet HREF="css/styleRedes.css">
         <link REL=StyleSheet HREF="css/styleContacto.css">
         <link REL=StyleSheet HREF="css/styleFooter.css">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
@@ -29,9 +25,13 @@
         <a name="habs"></a>
         <?php include 'layouts/habilidades.php';?>
         
+        <a name="redes"></a>
+        <?php include 'layouts/redesSociales.php';?>
+        
         
         <a name="contacto"></a>
         <?php include 'layouts/contacto.php';?>
+        <?php include 'layouts/mapa.php';?>
         
     </body>
     
