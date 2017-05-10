@@ -12,10 +12,13 @@ and open the template in the editor.
     max-width: 1920px;
     margin: 0 auto;
     padding-top: 20px;
+    /*background: url(../img/fondoRedes.jpg) fixed;*/ 
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #containerRedesSociales {
     width: 1200px;
-    height: 500px;
+    height: 200px;
     margin: 0 auto;    
 }
 #contentRedesIn {
@@ -38,12 +41,12 @@ img.imgRedesIn {
     margin-top: 10px;
     float: left;
 }
-span.colorLinkedin {
-    /*color: #0177b5;*/
+/*span.colorLinkedin {
+    color: #0177b5;
 }
 span.colorYoutube {
-    /*color: #e52c27;*/
+    color: #e52c27;
 }
 span.colorTwitter {
-    /*color: #56d7fe;*/
-}
+    color: #56d7fe;
+}*/

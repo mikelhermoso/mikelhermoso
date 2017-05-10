@@ -9,8 +9,8 @@
         </ul>
     </nav>
     <div id="contentIdioma">
-        <img class="imgIdioma" src="img/español.png" alt="español" />
-        <img class="imgIdioma" src="img/ingles.png" alt="ingles" />
+        <a href="index.php?lang=es"><img class="imgIdioma" src="img/español.png" alt="español" /></a>
+        <a href="index.php?lang=en"><img class="imgIdioma" src="img/ingles.png" alt="ingles" /></a>
     </div>
     <div id="contentRedes">
         <img class="imgRedes" src="img/redes/twitter.png" alt="twitter" />
@@ -37,8 +37,8 @@
         </ul>
     </nav>
     <div id="contentIdioma">
-        <img class="imgIdioma" src="img/español.png" alt="español" />
-        <img class="imgIdioma" src="img/ingles.png" alt="ingles" />
+        <a href="index.php?lang=es"><img class="imgIdioma" src="img/español.png" alt="español" /></a>
+        <a href="index.php?lang=en"><img class="imgIdioma" src="img/ingles.png" alt="ingles" /></a>
     </div>
     <div id="contentRedes">
         <img class="imgRedes" src="img/redes/twitter.png" alt="facebook" />

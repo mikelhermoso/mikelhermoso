@@ -1,4 +1,11 @@
-<?php require('strings/strings_es.php'); ?>
+<?php 
+    $lang = $_GET['lang'];
+    if ($lang == "en") {
+        require('strings/strings_en.php'); 
+    } else {
+        require('strings/strings_es.php'); 
+    }
+?>
 <html>
     <head>
         <title>Mikel Hermoso</title>
