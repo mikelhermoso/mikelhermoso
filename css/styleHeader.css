@@ -11,8 +11,8 @@ header {
     width: 100%;
     max-width: 1920px;
     margin: 0 auto;
-    height: 800px;
-    background: url(../img/fondoHeader2.jpg) fixed;
+    height: 100%;
+    background: url(../img/fondo3.jpg) fixed;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -35,10 +35,13 @@ header {
     color: black;
 }
 #contentRedes {
-    height: 30%;
     height: 50px;
-    padding-right: 50px;
+    padding-right: 25px;
     float: right;
+}
+#contentIdioma {
+    float: right;
+    height: 50px;
 }
 #contentTitPag {
     clear: both;
@@ -56,6 +59,11 @@ header {
     width: 35px;
     margin-top: 8px;
 }
+.imgIdioma {
+    width: 20px;
+    margin-top: 8px;
+    margin-right: 8px;
+}
 .btnHeader {
     text-align: center;
     text-decoration: none;
@@ -64,7 +72,7 @@ header {
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    background: #AA3939;
+    background: #D46A6A;
     margin: 10px 5px;
     color: #FFF;
     -webkit-transition: all 0.2s ease-in-out;
@@ -74,11 +82,11 @@ header {
     transition: all 0.2s ease-in-out;
 }
 .btnHeader:hover {
-    background: #D46A6A;
+    background: #FFAAAA;
 }
 h1.titPag {
     color: white;
-    font-size: 5em;
+    font-size: 6em;
 }
 h4.subTitPag {
     color: whitesmoke;

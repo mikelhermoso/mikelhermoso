@@ -13,38 +13,55 @@ and open the template in the editor.
     max-width: 1920px;
     margin: 0 auto;
     height: 500px;
-    background: url(../img/fondoSkills.jpg) fixed;
+    background: url(../img/fondo5.jpg) fixed;
     /*background: #242424;*/
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 15px;
+}
+#contentHabilidadesIn {
+    width: 1200px;
+    margin: 0 auto;
+}
+#contentHabilidades2 {
+    width: 50%;
+    margin: 0 auto;
+    height: 500px;
+    float: left; 
 }
 #containerHabilidades1, #containerHabilidades2, #containerHabilidades3, #containerHabilidades4  {
-    width: 50%;
-    height: 250px;
-    float: left;
+    width: 90%;
+    margin: 10px auto;
+    height: 205px;
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
-    opacity: 0.8;
+    opacity: 0.7;
+    padding: 15px;
+    -webkit-transition: all 500ms ease-in-out; 
+    -moz-transition: all 500ms ease-in-out; 
+    -ms-transition: all 500ms ease-in-out;  
+    -o-transition: all 500ms ease-in-out;
 }
 #containerHabilidades1:hover, #containerHabilidades2:hover, #containerHabilidades3:hover, #containerHabilidades4:hover  {
     opacity: 1;
+    font-size: 1.1em;
 }
 #containerHabilidades1 {
-    /*background: #242424;*/
-    background: url(../img/sistema.jpg) fixed;
+    background: #D46A6A;
+    /*background: url(../img/sistemas.jpg) fixed;*/
 }
 #containerHabilidades2 {
-/*    background: #D46A6A;*/
-    background: url(../img/apps.png) fixed;
+    background: #5F5F5F;
+    /*background: url(../img/aplicaciones.jpg) fixed;*/
 }
 #containerHabilidades3 {
-    /*background: #D46A6A;*/
-    background: url(../img/desarrollo.png) fixed;
+    background: #5F5F5F;
+    /*background: url(../img/web.png) fixed;*/
 }
 #containerHabilidades4 {
-    /*background: #242424;*/
-    background: url(../img/design.png) fixed;
+    background: #D46A6A;
+    /*background: url(../img/diseño.png) fixed;*/
 }
 #contentHab {
     width: 250px;
@@ -60,15 +77,16 @@ and open the template in the editor.
     text-align: center;
 }
 #contentTextoHabs1, #contentTextoHabs2, #contentTextoHabs3, #contentTextoHabs4 {
-    display: none;
-    margin-top:70px;
+    /*display: none;*/
+    /*margin-top:70px;*/
     color: white;
 }
 /*CLASES*/
 h1.titHab {
-    margin-top: 90px;
+    margin-top: 5px;
     margin-bottom: 0px;
     color: white;
+    font-size: 1.7em;
 }
 p.textoHabs {
     color: white;

@@ -31,7 +31,7 @@
         
         <a name="contacto"></a>
         <?php include 'layouts/contacto.php';?>
-        <?php include 'layouts/mapa.php';?>
+        <?php //include 'layouts/mapa.php';?>
         
     </body>
     
@@ -67,33 +67,4 @@
 	});
         
     });
-    $( "#containerHabilidades1" ).hover(function() {
-            $( "#contentTitHabs1" ).fadeOut( 0 );
-            $( "#contentTextoHabs1" ).fadeIn(1200);}, 
-        function(){
-            $( "#contentTextoHabs1" ).fadeOut( 0 );
-            $( "#contentTitHabs1" ).fadeIn( 500 );
-    });
-    $( "#containerHabilidades2" ).hover(function() {
-            $( "#contentTitHabs2" ).fadeOut( 0 );
-            $( "#contentTextoHabs2" ).fadeIn(1200);}, 
-        function(){
-            $( "#contentTextoHabs2" ).fadeOut( 0 );
-            $( "#contentTitHabs2" ).fadeIn( 500 );
-    });
-    $( "#containerHabilidades3" ).hover(function() {
-            $( "#contentTitHabs3" ).fadeOut( 0 );
-            $( "#contentTextoHabs3" ).fadeIn(1200);}, 
-        function(){
-            $( "#contentTextoHabs3" ).fadeOut( 0 );
-            $( "#contentTitHabs3" ).fadeIn( 500 );
-    });
-    $( "#containerHabilidades4" ).hover(function() {
-            $( "#contentTitHabs4" ).fadeOut( 0 );
-            $( "#contentTextoHabs4" ).fadeIn(1200);}, 
-        function(){
-            $( "#contentTextoHabs4" ).fadeOut( 0 );
-            $( "#contentTitHabs4" ).fadeIn( 500 );
-    });
-
 </script>

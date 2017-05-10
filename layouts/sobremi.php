@@ -4,28 +4,28 @@
     </div>
     <div id="contentTextoSobreMi">
         
-        <h1 class="titSobreMi">SOBRE MI</h1>
-            <p class="textoSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim</p>
+        <h1 class="titSobreMi"><?php echo $sobremiMayus ?></h1>
+            <p class="textoSobreMi"><?php echo $textoSobremi ?></p>
         
-        <h2 class="subTitSobreMi">EXPERIENCIA</h2>
+        <h2 class="subTitSobreMi"><?php echo $exp ?></h2>
         <ul>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+            <li class="liSobreMi"><?php echo $exp1 ?></li>
+            <li class="liSobreMi"><?php echo $exp2 ?></li>
+            <li class="liSobreMi"><?php echo $exp3 ?></li>
         </ul>
         <hr>
-        <h2 class="subTitSobreMi">ESTUDIOS</h2>
+        <h2 class="subTitSobreMi"><?php echo $estudios ?></h2>
         <ul>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+            <li class="liSobreMi"><?php echo $est1 ?></li>
+            <li class="liSobreMi"><?php echo $est2 ?></li>
+            <li class="liSobreMi"><?php echo $est3 ?></li>
         </ul>
         <hr>
-        <h2 class="subTitSobreMi">IDIOMAS</h2>
+        <h2 class="subTitSobreMi"><?php echo $idiomas ?></h2>
         <ul>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-            <li class="liSobreMi">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
+            <li class="liSobreMi"><?php echo $idi1 ?></li>
+            <li class="liSobreMi"><?php echo $idi2 ?></li>
+            <li class="liSobreMi"><?php echo $idi3 ?></li>
         </ul>
     </div>
 </div>

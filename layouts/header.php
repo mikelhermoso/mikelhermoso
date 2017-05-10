@@ -8,6 +8,10 @@
             <a href="#contacto"><li><?php echo $contacto ?></li></a>
         </ul>
     </nav>
+    <div id="contentIdioma">
+        <img class="imgIdioma" src="img/español.png" alt="español" />
+        <img class="imgIdioma" src="img/ingles.png" alt="ingles" />
+    </div>
     <div id="contentRedes">
         <img class="imgRedes" src="img/redes/twitter.png" alt="twitter" />
         <img class="imgRedes" src="img/redes/youtube.png" alt="youtube" />
@@ -32,6 +36,10 @@
             <a href="#contacto"><li><?php echo $contacto ?></li></a>
         </ul>
     </nav>
+    <div id="contentIdioma">
+        <img class="imgIdioma" src="img/español.png" alt="español" />
+        <img class="imgIdioma" src="img/ingles.png" alt="ingles" />
+    </div>
     <div id="contentRedes">
         <img class="imgRedes" src="img/redes/twitter.png" alt="facebook" />
         <img class="imgRedes" src="img/redes/youtube.png" alt="youtube" />

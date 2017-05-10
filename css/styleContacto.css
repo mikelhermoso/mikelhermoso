@@ -13,7 +13,8 @@ and open the template in the editor.
     max-width: 1920px;
     margin: 0px auto;
     height: 700px;
-    background: url(../img/fondoHeader3.jpg) fixed; /*#589389 color photoshop*/
+    background: url(../img/fondo2.jpg) fixed; /*#589389 color photoshop*/
+    /*background: #5F5F5F;*/
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
@@ -37,10 +38,12 @@ and open the template in the editor.
 }
 #contentMapa {
     width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
     height: 450px;
 }
 #contentMapa .capa-anti-eventos {
-    background: rgba(0,0,0,0.2);
+    background: rgba(0,0,0,0.0);
     width: 100%;
     height: 450px;
     position: absolute;
