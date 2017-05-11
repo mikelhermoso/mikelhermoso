@@ -1,5 +1,5 @@
 <footer>
     <div id="contentTextoFooter">  
-        <p class="textoFooter">&copy Copyright 2017 xxxxx</p>
+        <p class="textoFooter">&copy <?php echo $copy." ". $año." ".$copyAutor ?></p>
     </div>
 </footer>

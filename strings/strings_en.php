@@ -1,4 +1,5 @@
 <?php
+    /*CABECERA*/
     $index = 'Home';
     $sobremi = 'About me';
     $habs = 'Skills';
@@ -8,6 +9,7 @@
     $subTituloPrincipal = 'Subtitle of the page';
     $btn1 = 'Button 1';
     $btn2 = 'Button 2';
+    /*SOBREMI*/
     $sobremiMayus = 'ABOUT ME';
     $textoSobremi = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim';
     $exp = 'EXPERIENCE'; 
@@ -22,6 +24,7 @@
     $idi1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
     $idi2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
     $idi3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    /*HABILIDADES*/
     $titHab1 = 'OPERATING SYSTEMS';
     $hab11 = 'WINDOWS';
     $hab12 = 'LINUX';
@@ -42,5 +45,20 @@
     $linkedin = 'LINKEDIN';
     $youtube = 'YOUTUBE';
     $twitter = 'TWITTER';
+    /*CONTACTO*/
+    $contactoTit = 'CONTACT';
+    $nombre = 'Name';
+    $apellido = 'Last name';
+    $email = 'Email';
+    $mensaje = 'Message';
+    $enviar = 'SUBMIT';
+    $inNombre  = 'your name';
+    $inApellido = 'your last name';
+    $inMail = 'youremail@yourdomain.com';
+    $inMensaje = 'your message';
+    /*FOOTER*/
+    $copy = 'Copyright';
+    $año = '2017';
+    $copyAutor = 'xxxx';
 
 

@@ -50,6 +50,7 @@
 
 <script>
     $(function(){
+        
         $(window).scroll(function(){
             if ($(window).scrollTop() > 30) {
                 $("#cabecera").fadeOut();
@@ -75,24 +76,20 @@
 	});
         
         $(document).ready(function(){
-        $("#cabecera").hide(0).delay(300).fadeIn(2000)
+        $("#cabecera").hide(0).delay(300).fadeIn(2000);
         });
         
         $("#containerHabilidades1, #containerHabilidades2, #containerHabilidades3, #containerHabilidades4").smoove({
             offset  : '20%',
-            // moveX is overridden to -200px for ".bar" object
             moveX   : '100px',
             moveY   : '100px'
         });
-        $("#contentSobreMi, #contentContacto").smoove({
+        $("#contentImgContacto, #contentImgContact").smoove({
             offset  : '20%',
-            // moveX is overridden to -200px for ".bar" object
-//            moveX   : '100px',
             moveY   : '200px'
         });
-         $("#containerRedesSociales").smoove({
+         $("#containerRedesSociales, #contentTextoSobreMi, #containerContacto").smoove({
             offset  : '20%',
-            // moveX is overridden to -200px for ".bar" object
             moveX   : '100px'
         });
     });
