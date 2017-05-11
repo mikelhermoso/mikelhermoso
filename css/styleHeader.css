@@ -87,10 +87,12 @@ header {
 h1.titPag {
     color: white;
     font-size: 6em;
+    margin-bottom: 0px;
 }
 h4.subTitPag {
     color: whitesmoke;
     font-size: 1.5em;
+    margin-top: 10px;
 }
 .ir-arriba {
     display:none;

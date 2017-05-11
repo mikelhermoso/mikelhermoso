@@ -15,7 +15,9 @@
         </form>
     </div>
     <div id="contentImgContact">
-        <img class="imgContacto" src="img/fondo2.jpg" alt="contact" />
+        <div id='containerImgContact'>
+            <img class="imgContacto" src="img/contact.png" alt="contact" />
+        </div>
     </div>
     </div>
 </div>

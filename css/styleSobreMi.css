@@ -25,10 +25,13 @@ and open the template in the editor.
 
 /*CLASES*/
 .imgMiFoto {
-    /*width: 80%;*/
-    height: 300px;
+    width: 85%;
+    /*height: 300px;*/
     float: left;
-    padding: 15px 50px;
+    margin-top: 15px;
+    -webkit-box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
+    box-shadow: 5px 5px 20px 0px rgba(0,0,0,0.75);
 }
 p.textoSobreMi, li.liSobreMi {
     color: black;

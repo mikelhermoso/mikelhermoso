@@ -79,9 +79,14 @@
         $("#cabecera").hide(0).delay(300).fadeIn(2000);
         });
         
-        $("#containerHabilidades1, #containerHabilidades2, #containerHabilidades3, #containerHabilidades4").smoove({
+        $("#containerHabilidades1, #containerHabilidades2").smoove({
             offset  : '20%',
             moveX   : '100px',
+            moveY   : '100px'
+        });
+        $("#containerHabilidades3, #containerHabilidades4").smoove({
+            offset  : '20%',
+            moveX   : '-100px',
             moveY   : '100px'
         });
         $("#contentImgContacto, #contentImgContact").smoove({

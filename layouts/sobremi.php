@@ -1,6 +1,6 @@
 <div id="contentSobreMi">
     <div id="contentImgContacto">
-        <img class="imgMiFoto" src="img/mifoto.png" alt="mifoto" />
+        <img class="imgMiFoto" src="img/mifoto.jpg" alt="mifoto" />
     </div>
     <div id="contentTextoSobreMi">
         

@@ -23,7 +23,7 @@
     $idiomas = 'IDIOMAS';
     $idi1 = 'Nativo. ESPAÑOL';
     $idi2 = 'Nativo. EUSKERA';
-    $idi3 = 'Idiomas extranjero INGLES. Competencia básica profesional';
+    $idi3 = 'Idioma extranjero. INGLES. Competencia básica profesional';
     /*HABILIDADES*/
     $titHab1 = 'SISTEMAS OPERATIVOS';
     $hab11 = 'WINDOWS';
