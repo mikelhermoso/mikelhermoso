@@ -21,7 +21,6 @@
         <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-smoove/0.2.6/jquery.smoove.min.js"></script>
-
     </head>
     
     <header>
@@ -38,12 +37,13 @@
         <a name="contacto"></a>
         <?php include 'layouts/contacto.php';?>
         
-        <a name="redes"></a>
-        <?php include 'layouts/redesSociales.php';?>
+        
         
     </body>
     
     <footer>
+        <a name="redes"></a>
+        <?php include 'layouts/redesSociales.php';?>
        <?php include 'layouts/footer.php';?> 
     </footer>
 </html>
@@ -88,8 +88,12 @@
             offset  : '20%',
             moveY   : '200px'
         });
-         $("#containerRedesSociales, #contentTextoSobreMi, #containerContacto").smoove({
+         $("#contentTextoSobreMi, #containerContacto").smoove({
             offset  : '20%',
+            moveX   : '100px'
+        });
+        $("#containerRedesSociales").smoove({
+            offset  : '10%',
             moveX   : '100px'
         });
     });

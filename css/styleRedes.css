@@ -12,7 +12,7 @@ and open the template in the editor.
     max-width: 1920px;
     margin: 0 auto;
     padding-top: 10px;
-    background: url(../img/fondo.jpg) fixed; 
+/*    background: url(../img/fondo6.jpg) fixed; */
     /*background: #8E8E8E;*/
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,6 +32,7 @@ h1.titRedes {
     margin-left: 30px;
 }
 h3.titRedesIn {
+    color: white;
     margin-left: 30px;
     margin-top: 10px;
     margin-right: 15px;
