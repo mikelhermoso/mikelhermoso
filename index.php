@@ -19,6 +19,9 @@
         <link REL=StyleSheet HREF="css/styleFooter.css">
         <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
         <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-smoove/0.2.6/jquery.smoove.min.js"></script>
+
     </head>
     
     <header>
@@ -32,13 +35,11 @@
         <a name="habs"></a>
         <?php include 'layouts/habilidades.php';?>
         
-        <a name="redes"></a>
-        <?php include 'layouts/redesSociales.php';?>
-        
-        
         <a name="contacto"></a>
         <?php include 'layouts/contacto.php';?>
-        <?php //include 'layouts/mapa.php';?>
+        
+        <a name="redes"></a>
+        <?php include 'layouts/redesSociales.php';?>
         
     </body>
     
@@ -73,5 +74,26 @@
 		}, 300);
 	});
         
+        $(document).ready(function(){
+        $("#cabecera").hide(0).delay(300).fadeIn(2000)
+        });
+        
+        $("#containerHabilidades1, #containerHabilidades2, #containerHabilidades3, #containerHabilidades4").smoove({
+            offset  : '20%',
+            // moveX is overridden to -200px for ".bar" object
+            moveX   : '100px',
+            moveY   : '100px'
+        });
+        $("#contentSobreMi, #contentContacto").smoove({
+            offset  : '20%',
+            // moveX is overridden to -200px for ".bar" object
+//            moveX   : '100px',
+            moveY   : '200px'
+        });
+         $("#containerRedesSociales").smoove({
+            offset  : '20%',
+            // moveX is overridden to -200px for ".bar" object
+            moveX   : '100px'
+        });
     });
 </script>

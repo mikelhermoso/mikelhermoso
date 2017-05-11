@@ -13,14 +13,14 @@
             <li class="liSobreMi"><?php echo $exp2 ?></li>
             <li class="liSobreMi"><?php echo $exp3 ?></li>
         </ul>
-        <hr>
+        <hr class="sobremi">
         <h2 class="subTitSobreMi"><?php echo $estudios ?></h2>
         <ul>
             <li class="liSobreMi"><?php echo $est1 ?></li>
             <li class="liSobreMi"><?php echo $est2 ?></li>
             <li class="liSobreMi"><?php echo $est3 ?></li>
         </ul>
-        <hr>
+        <hr class="sobremi">
         <h2 class="subTitSobreMi"><?php echo $idiomas ?></h2>
         <ul>
             <li class="liSobreMi"><?php echo $idi1 ?></li>
