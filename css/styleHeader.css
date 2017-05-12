@@ -34,6 +34,9 @@ header {
 #cabeceraFix ul li{
     color: black;
 }
+#cabeceraFix ul li:hover {
+    color: #D46A6A;
+}
 #contentRedes {
     height: 50px;
     padding-right: 25px;

@@ -7,8 +7,8 @@
     $contacto = 'Contact';
     $tituloPrincipal = 'TITLE OF THE PAGE';
     $subTituloPrincipal = 'Subtitle of the page';
-    $btn1 = 'Button 1';
-    $btn2 = 'Button 2';
+    $btn1 = 'About me';
+    $btn2 = 'Contact';
     /*SOBREMI*/
     $sobremiMayus = 'ABOUT ME';
     $textoSobremi = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim';

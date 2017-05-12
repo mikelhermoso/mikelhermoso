@@ -60,12 +60,21 @@ input {
     height: 40px;
     margin-bottom: 5px;
     margin-top: 5px;
+    border: 1px solid lightgray;
+    opacity: 0.7;
+    padding-left: 5px;
 }
 textarea {
     width: 300px;
     height: 100px;
     margin-bottom: 5px;
     margin-top: 5px;
+    border: 1px solid lightgray;
+    opacity: 0.7;
+    padding: 5px;
+}
+input:hover, textarea:hover {
+     opacity: 1;
 }
 span.textoContacto {
 }

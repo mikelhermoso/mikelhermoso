@@ -22,8 +22,8 @@
         <h4 class="subTitPag"><?php echo $subTituloPrincipal ?></h4>
     </div>
     <div id="contentBotones">
-        <a href="#" class="btnHeader"><?php echo $btn1 ?></a>
-        <a href="#" class="btnHeader"><?php echo $btn2 ?></a>
+        <a href="#sobremi" class="btnHeader"><?php echo $btn1 ?></a>
+        <a href="#contacto" class="btnHeader"><?php echo $btn2 ?></a>
     </div>
 </div>
 <div id="cabeceraFix">

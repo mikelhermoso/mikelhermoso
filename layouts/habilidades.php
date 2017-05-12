@@ -19,7 +19,6 @@
                     <p class="textoHabs"><?php echo $hab21 ?></p>
                     <p class="textoHabs"><?php echo $hab22 ?></p>
                     <p class="textoHabs"><?php echo $hab23 ?></p>
-                    <p class="textoHabs"><?php echo $hab24 ?></p>
                 </div>
             </div>
         </div>
@@ -32,6 +31,8 @@
                     <p class="textoHabs"><?php echo $hab31 ?></p>
                     <p class="textoHabs"><?php echo $hab32 ?></p>
                     <p class="textoHabs"><?php echo $hab33 ?></p>
+                    <p class="textoHabs"><?php echo $hab34 ?></p>
+
                 </div>
             </div>
             <div id="containerHabilidades4">
