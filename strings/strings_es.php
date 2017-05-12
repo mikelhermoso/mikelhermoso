@@ -11,7 +11,11 @@
     $btn2 = 'CONTACTO';
     /*SOBRE MI*/
     $sobremiMayus = 'SOBRE MI';
-    $textoSobremi = 'De momento he centrado mi tiempo en estudiar y formarme en el ámbito de la tecnología. He estudiado telecomunicaciones y lo que más me interesa que es la informática. He realizado practicas durante tres meses en mantenimiento informático y tecnológico en la universidad de Tecnun, también realice otros 3 meses de prácticas como programador informático en Izfe. Actualmente estoy realizando las practicas del grado de desarrollo de aplicaciones multiplataforma.';
+    $textoSobremi = 'De momento he centrado mi tiempo en estudiar y formarme en el ámbito de la tecnología. '
+            . 'He estudiado telecomunicaciones y lo que más me interesa que es la informática. '
+            . 'He realizado practicas durante tres meses en mantenimiento informático y tecnológico en la universidad de Tecnun, '
+            . 'también realice otros 3 meses de prácticas como programador informático en Izfe. '
+            . 'Actualmente estoy realizando las practicas del grado de desarrollo de aplicaciones multiplataforma.';
     $exp = 'EXPERIENCIA'; 
     $expTrabajo1 = 'PROGRAMADOR';
     $expEmpresa1 = 'Gugo Creative';

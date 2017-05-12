@@ -5,25 +5,41 @@
     $habs = 'Skills';
     $blog = 'Blog';
     $contacto = 'Contact';
-    $tituloPrincipal = 'Mikel Hermoso';
+    $tituloPrincipal = 'Mikel Hermoso Hernandez';
     $subTituloPrincipal = 'Computer programmer and technician in telecommunications systems';
     $btn1 = 'ABOUT ME';
     $btn2 = 'CONTACT';
     /*SOBRE MI*/
     $sobremiMayus = 'ABOUT ME';
-    $textoSobremi = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim';
-    $exp = 'EXPERIENCE'; 
-    $exp1 = 'Gugo Creative (Computer developer). February 2017 – Actualmente (2 Months)';
-    $exp2 = 'Izfe (Computer developer). February 2016 – May 2016 (3 Months)';
-    $exp3 = 'Tecnun (Education). September 2012 – May 2014 (3 Months)';
+    $textoSobremi = 'At the moment I have focused my time in studying and training in the field of technology. '
+            . 'I have studied telecommunications and what interests me most is computer science. '
+            . 'I have done internships for three months in computer and technological maintenance at Tecnun University, '
+            . 'also doing another 3 months of internship as a computer programmer in Izfe. '
+            . 'I am currently doing the practices of the degree of development of multiplatform applications.';   
+    $exp = 'EXPERIENCE';
+    $expTrabajo1 = 'PROGRAMMER';
+    $expEmpresa1 = 'Gugo Creative';
+    $exp1 = '(Computer developer). February 2017 – Actualmente';
+    $expTrabajo2 = 'JAVA PROGRAMMER';
+    $expEmpresa2 = 'Izfe';
+    $exp2 = '(Computer developer). February 2016 – May 2016 (3 Months)';
+    $expTrabajo3 = 'COMPUTER TECHNICIAN';
+    $expEmpresa3 = 'Tecnun';
+    $exp3 = '(Education). September 2012 – May 2014 (3 Months)';
     $estudios = 'STUDIES';
+    $fechaEst1 = '2016 - 2017';
     $est1 = 'DEVELOPMENT OF MULTIPLATAFORM APPLICATIONS';
+    $fechaEst2 = '2014 - 2016';
     $est2 = 'WEB APPLICATIONS DEVELOPMENT';
+    $fechaEst3 = '2012 - 2014';
     $est3 = 'TELECOMMUNICATIONS AND INFORMATICS';
     $idiomas = 'LANGUAGES';
-    $idi1 = 'Native. SPANISH';
-    $idi2 = 'Native. EUSKERA';
-    $idi3 = 'Foreign language. INGLES. Professional Core Competence';
+    $idi1Cat = 'Native';
+    $idi1 = 'SPANISH';
+    $idi2Cat = 'Native';
+    $idi2 = 'EUSKERA';
+    $idi3Cat = 'Foreign language';
+    $idi3 = 'INGLES. Professional Core Competence';
     /*HABILIDADES*/
     $titHab1 = 'OPERATING SYSTEMS';
     $hab11 = 'WINDOWS';
