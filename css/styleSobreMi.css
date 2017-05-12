@@ -1,8 +1,3 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
 /* 
     Created on : 05-may-2017, 10:56:42
     Author     : mikel
@@ -22,7 +17,6 @@ and open the template in the editor.
     width: 65%;
     float: right;
 }
-
 /*CLASES*/
 .imgMiFoto {
     width: 85%;
@@ -49,4 +43,10 @@ hr.sobremi {
     border: 0; 
     height: 12px; 
     box-shadow: inset 0 12px 12px -12px lightgray;
+}
+.expTrabajo {
+    color: gray;
+}
+.expEmpresa {
+   font-size: 0.9em; 
 }

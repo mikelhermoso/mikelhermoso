@@ -5,25 +5,25 @@
     $habs = 'Skills';
     $blog = 'Blog';
     $contacto = 'Contact';
-    $tituloPrincipal = 'TITLE OF THE PAGE';
-    $subTituloPrincipal = 'Subtitle of the page';
-    $btn1 = 'About me';
-    $btn2 = 'Contact';
-    /*SOBREMI*/
+    $tituloPrincipal = 'Mikel Hermoso';
+    $subTituloPrincipal = 'Computer programmer and technician in telecommunications systems';
+    $btn1 = 'ABOUT ME';
+    $btn2 = 'CONTACT';
+    /*SOBRE MI*/
     $sobremiMayus = 'ABOUT ME';
     $textoSobremi = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim';
     $exp = 'EXPERIENCE'; 
-    $exp1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $exp2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $exp3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    $exp1 = 'Gugo Creative (Computer developer). February 2017 – Actualmente (2 Months)';
+    $exp2 = 'Izfe (Computer developer). February 2016 – May 2016 (3 Months)';
+    $exp3 = 'Tecnun (Education). September 2012 – May 2014 (3 Months)';
     $estudios = 'STUDIES';
-    $est1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $est2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $est3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    $est1 = 'DEVELOPMENT OF MULTIPLATAFORM APPLICATIONS';
+    $est2 = 'WEB APPLICATIONS DEVELOPMENT';
+    $est3 = 'TELECOMMUNICATIONS AND INFORMATICS';
     $idiomas = 'LANGUAGES';
-    $idi1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $idi2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $idi3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    $idi1 = 'Native. SPANISH';
+    $idi2 = 'Native. EUSKERA';
+    $idi3 = 'Foreign language. INGLES. Professional Core Competence';
     /*HABILIDADES*/
     $titHab1 = 'OPERATING SYSTEMS';
     $hab11 = 'WINDOWS';
@@ -59,6 +59,6 @@
     /*FOOTER*/
     $copy = 'Copyright';
     $año = '2017';
-    $copyAutor = 'xxxx';
+    $copyAutor = 'MikelHermoso';
 
 

@@ -5,25 +5,37 @@
     $habs = 'Habilidades';
     $blog = 'Blog';
     $contacto = 'Contacto';
-    $tituloPrincipal = 'TITULO DE LA PAGINA';
-    $subTituloPrincipal = 'Subtitulo de la página';
-    $btn1 = 'Sobre mi';
-    $btn2 = 'Contacto';
+    $tituloPrincipal = 'MIKEL HERMOSO HERNANDEZ';
+    $subTituloPrincipal = 'Programador informatico y Técnico en sistemas de telecomunicaciones';
+    $btn1 = 'SOBRE MI';
+    $btn2 = 'CONTACTO';
     /*SOBRE MI*/
     $sobremiMayus = 'SOBRE MI';
-    $textoSobremi = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim';
+    $textoSobremi = 'De momento he centrado mi tiempo en estudiar y formarme en el ámbito de la tecnología. He estudiado telecomunicaciones y lo que más me interesa que es la informática. He realizado practicas durante tres meses en mantenimiento informático y tecnológico en la universidad de Tecnun, también realice otros 3 meses de prácticas como programador informático en Izfe. Actualmente estoy realizando las practicas del grado de desarrollo de aplicaciones multiplataforma.';
     $exp = 'EXPERIENCIA'; 
-    $exp1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $exp2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $exp3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    $expTrabajo1 = 'PROGRAMADOR';
+    $expEmpresa1 = 'Gugo Creative';
+    $exp1 = '(Desarrollo de programación). Febrero 2017 – Actualmente';
+    $expTrabajo2 = 'PROGRAMADOR JAVA';
+    $expEmpresa2 = 'Izfe';
+    $exp2 = '(Desarrollo de programación). Febrero 2016 – Mayo 2016 (3 meses)';
+    $expTrabajo3 = 'TECNICO INFORMATICO';
+    $expEmpresa3 = 'Tecnun';
+    $exp3 = '(Educación). Septiembre 2012 – Mayo 2014 (3 meses)';
     $estudios = 'ESTUDIOS';
-    $est1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $est2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $est3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    $fechaEst1 = '2016 - 2017';
+    $est1 = 'DESARROLLO DE APLICACIONES MULTIPLATAFORMA';
+    $fechaEst2 = '2014 - 2016';
+    $est2 = 'DESARROLLO DE APLICACIONES WEB';
+    $fechaEst3 = '2012 - 2014';
+    $est3 = 'TELECOMUNICACIONES E INFORMATICA';
     $idiomas = 'IDIOMAS';
-    $idi1 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $idi2 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
-    $idi3 = 'Lorem ipsum dolor sit amet, consectetuer adipiscing elit.';
+    $idi1Cat = 'Nativo';
+    $idi1 = 'ESPAÑOL';
+    $idi2Cat = 'Nativo';
+    $idi2 = 'EUSKERA';
+    $idi3Cat = 'Idioma extranjero';
+    $idi3 = 'INGLES. Competencia básica profesional';
     /*HABILIDADES*/
     $titHab1 = 'SISTEMAS OPERATIVOS';
     $hab11 = 'WINDOWS';
@@ -60,7 +72,7 @@
     /*FOOTER*/
     $copy = 'Copyright';
     $año = '2017';
-    $copyAutor = 'xxxx';
+    $copyAutor = 'MikelHermoso';
 
 
 

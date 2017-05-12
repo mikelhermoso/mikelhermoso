@@ -1,8 +1,3 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
 /* 
     Created on : 09-may-2017, 14:24:23
     Author     : mikel
@@ -12,8 +7,6 @@ and open the template in the editor.
     max-width: 1920px;
     margin: 50px auto;
     padding-top: 10px;
-/*    background: url(../img/fondo6.jpg) fixed; */
-    /*background: #8E8E8E;*/
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -44,12 +37,3 @@ img.imgRedesIn {
     margin-top: 10px;
     float: left;
 }
-/*span.colorLinkedin {
-    color: #0177b5;
-}
-span.colorYoutube {
-    color: #e52c27;
-}
-span.colorTwitter {
-    color: #56d7fe;
-}*/
